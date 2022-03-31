@@ -1,2 +1,2 @@
 # Chrome-Extension
-Dogodoro Timer
+A puppy themed Pomodoro Timer
